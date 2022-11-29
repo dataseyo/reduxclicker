@@ -1,0 +1,9 @@
+.screen__container {
+    display: flex;
+    flex-direction: column;
+
+    /* visible area to test clicks */
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+}
